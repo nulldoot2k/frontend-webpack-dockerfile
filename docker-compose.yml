@@ -8,3 +8,5 @@ services:
       - "8080:3000"
     container_name: fe-webpack
     command: "node index.js"
+
+# Add service mongodb or mysql
