@@ -4,10 +4,10 @@ Maybe someone thinks this is useless for front-end developer, but I think for me
 
 For example, if I want to run a project, I need to install node or I should install webpack if this project using webpack? I can’t just run the project? and make the project work? and perhaps the project also need rely on database?
 
-- Create Repo: [create repo](#1.-create-project-react.js-and-node.js)
-- Create Dockerfile: [create dockerfile](#2.-create-dockerfile)
-- Run images: [build and run images](#3.-run-images)
-- Quickly: [quickly start](#4.-quick-start)
+- Create Repo: [create repo](#1-create-project-react.js-and-node.js)
+- Create Dockerfile: [create dockerfile](#2-create-dockerfile)
+- Run images: [build and run images](#3-run-images)
+- Quickly: [quickly start](#4-quick-start)
 
 Can I easy to integrate and manage front-end projects with back-end projects?
 
